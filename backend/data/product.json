@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Sandisk ultra microSDHC 32GB",
+        "price" : "Rs. 1,999",
+        "description" : "Sandisk ultra microSDHC 32GB",
+        "rating" : "4.5",
+        "image" : [{
+            "public_id" : "sandisk_ultra_microsdhc_32gb_1",
+            "url": "https://m.media-amazon.com/images/I/519rcF1ebeL._SX522_.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "stock" : "50",
+        "numOfReviews" : "10",
+        "reviews" : []
+    },
+    {
+        "name" : "canon eos 5d mark ii",
+        "price" : "Rs. 1,11,999",
+        "description" : "canon eos 5d mark ii",
+        "rating" : "4.5",
+        "image" : [{
+            "public_id" : "sandisk_ultra_microsdhc_32gb_1",
+            "url": "https://m.media-amazon.com/images/I/519rcF1ebeL._SX522_.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Amazon",
+        "stock" : "50",
+        "numOfReviews" : "10",
+        "reviews" : []
+    }
+]
